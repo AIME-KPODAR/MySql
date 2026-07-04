@@ -1,0 +1,1 @@
+ALTER TABLE produit DROP numpro;

@@ -1,0 +1,12 @@
+SELECT table_schema,table_name,constraint_name,constraint_type 
+FROM information_schema.table_constraints
+WHERE table_name='client';
+SELECT table_schema,table_name,constraint_name,constraint_type 
+FROM information_schema.table_constraints
+WHERE table_name='commande';
+SELECT table_schema,table_name,constraint_name,constraint_type 
+FROM information_schema.table_constraints
+WHERE table_name='produit';
+SELECT table_schema,table_name,constraint_name,constraint_type 
+FROM information_schema.table_constraints
+WHERE table_name='detailcom';

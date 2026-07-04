@@ -1,0 +1,4 @@
+SELECT 
+    nom
+FROM
+    etudiant;

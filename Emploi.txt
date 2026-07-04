@@ -1,0 +1,100 @@
+🧩 Niveau Débutant : Manipuler les bases et les requêtes
+1. Gestion d’une bibliothèque
+
+Tables : livres, auteurs, emprunts, membres.
+
+Exemples de requêtes :
+
+Ajouter un nouveau livre.
+
+Lister les livres disponibles.
+
+Trouver tous les livres écrits par un auteur.
+
+Voir quels livres sont empruntés et par qui.
+
+👉 Compétences : CREATE TABLE, INSERT, SELECT, JOIN, UPDATE, DELETE.
+
+2. Carnet d’adresses
+
+Tables : contacts (nom, prénom, téléphone, email, adresse).
+
+Requêtes utiles :
+
+Rechercher un contact par nom ou ville.
+
+Mettre à jour les coordonnées d’un contact.
+
+Supprimer un contact.
+
+👉 Compétences : requêtes simples et filtres (WHERE, LIKE, ORDER BY).
+
+⚙️ Niveau Intermédiaire : Relations et contraintes
+3. Gestion d’un mini site de e-commerce
+
+Tables : produits, catégories, clients, commandes, détails_commande.
+
+Requêtes :
+
+Lister les produits d’une catégorie donnée.
+
+Voir le total d’une commande.
+
+Calculer le chiffre d’affaires total.
+
+👉 Compétences : FOREIGN KEY, JOIN, GROUP BY, SUM, COUNT.
+
+4. Application de gestion scolaire
+
+Tables : étudiants, cours, professeurs, inscriptions, notes.
+
+Requêtes :
+
+Lister les étudiants inscrits à un cours.
+
+Calculer la moyenne d’un étudiant.
+
+Trouver les meilleurs étudiants d’un cours.
+
+👉 Compétences : sous-requêtes, agrégations, intégrité référentielle.
+
+🚀 Niveau Avancé : Automatisation et analyse
+5. Système de gestion d’un restaurant
+
+Tables : plats, menus, commandes, serveurs, paiements.
+
+Fonctionnalités :
+
+Ajouter une commande avec plusieurs plats.
+
+Calculer les ventes journalières ou mensuelles.
+
+Créer une vue pour suivre les plats les plus commandés.
+
+Créer un déclencheur (TRIGGER) pour mettre à jour le stock automatiquement.
+
+👉 Compétences : VIEW, TRIGGER, INDEX, optimisation des requêtes.
+
+6. Projet analytique : mini dashboard MySQL
+
+Crée une base avec des données (par exemple : ventes mensuelles).
+
+Fais des requêtes d’analyse :
+
+Top 5 produits les plus vendus.
+
+Revenu moyen par client.
+
+Évolution mensuelle des ventes.
+
+👉 Compétences : GROUP BY, HAVING, CASE WHEN, vues analytiques.
+
+💡 Bonus : Relier à un langage
+
+Pour aller plus loin :
+
+Connection de la base MySQL à Python, PHP ou JavaScript (Node.js) pour créer une petite application.
+
+Exemple : un mini site d’inscription ou de gestion des stocks.
+
+J' apprendra à faire des requêtes SQL dynamiques depuis ton code.

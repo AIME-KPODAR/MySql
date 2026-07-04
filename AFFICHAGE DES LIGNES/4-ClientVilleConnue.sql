@@ -1,0 +1,2 @@
+SELECT * FROM client 
+WHERE ville IS NOT NULL;

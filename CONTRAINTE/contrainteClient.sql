@@ -1,0 +1,5 @@
+ALTER TABLE client
+ADD CONSTRAINT numcli_pk PRIMARY KEY(numcli);
+
+ALTER TABLE client
+MODIFY nom VARCHAR(30) NOT NULL;

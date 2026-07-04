@@ -1,0 +1,2 @@
+ALTER TABLE produit
+ADD CONSTRAINT npro_pk PRIMARY KEY (npro);
